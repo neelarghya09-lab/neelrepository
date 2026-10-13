@@ -41,7 +41,7 @@ rock-paper-scissors
    
 ## 🌐 Live Demo
 If deployed with GitHub Pages, the app will be available at:
-https://your-username.github.io/rock-paper-scissors/
+https://neelarghya09-lab.github.io/rock-paper-scissor/
 
 ## 📸 Screenshots
 
