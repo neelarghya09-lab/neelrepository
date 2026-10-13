@@ -1,4 +1,4 @@
-# neelrepository
+# rockpaperscissor
 Interactive Rock–Paper–Scissors game implemented in JavaScript.
 
 Player vs Computer mode
